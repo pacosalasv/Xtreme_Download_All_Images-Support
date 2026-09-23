@@ -1,8 +1,7 @@
 # Changelog
 
-## 1.21 reference
+## 1.21
 
-- Added the public support repository for **Xtreme Download All Images**.
-- Documented the supplied 1.21 build/reference material.
-- Added issue tracking, support guidance, product metadata, and common ecosystem navigation.
-- Installable product files remain outside this repository.
+- Established the public support and documentation home for **Xtreme Download All Images**.
+- Added product overview, key features, standout workflows, status, support guidance, and ecosystem links.
+- Added issue templates and public feedback channels for compatibility, bugs, and product ideas.

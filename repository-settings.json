@@ -1,6 +1,6 @@
 {
-  "description": "Documentation and support for Xtreme Download All Images v1.21, a browser image extraction and download extension.",
-  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "description": "Power image downloader with deep discovery, metadata filters, content de-duplication, format conversion, smart naming, queues, previews and streaming ZIP workflows.",
+  "homepage": "https://xtrememindset.blogspot.com/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,
