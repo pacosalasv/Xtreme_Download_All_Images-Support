@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for Xtreme Download All Images v1.21, a browser image extraction and download extension.",
+  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "images",
+    "downloads",
+    "chrome",
+    "edge",
+    "firefox",
+    "productivity",
+    "technical-support"
+  ]
+}
