@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="860" alt="Xtreme Download All Images featured image" src="docs/media/Featured_Image.png" />
+<img width="860" alt="Xtreme Download All Images logo" src="docs/media/Logo.png" />
 
 # Xtreme Download All Images
 
