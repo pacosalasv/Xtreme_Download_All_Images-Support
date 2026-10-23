@@ -1,0 +1,17 @@
+{
+  "description": "Power image downloader with deep discovery, metadata filters, content de-duplication, format conversion, smart naming, queues, previews and streaming ZIP workflows.",
+  "homepage": "https://xtrememindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "images",
+    "downloads",
+    "chrome",
+    "edge",
+    "firefox",
+    "productivity",
+    "technical-support"
+  ]
+}
